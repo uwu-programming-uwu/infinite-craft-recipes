@@ -1,1 +1,2 @@
-# infinite-craft-recipes
+# Infinite Craft Recipes
+**This project presents some basic recipes for Infinite Craft**
